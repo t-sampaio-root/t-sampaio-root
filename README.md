@@ -21,13 +21,6 @@ Analista com foco em Segurança Ofensiva (Red Team & Pentest), integrando sólid
 
 ---
 
-### 🏆 TryHackMe & Estatísticas
-
-<!-- Substitua 'SEU_USUARIO_THM' pelo seu nome de usuário exato do TryHackMe -->
-[![TryHackMe Badge](https://tryhackme.com/p/root.tlsvp)
-
----
-
 ### ⚙️ Hard Skills & Ferramentas
 
 | Categoria | Tecnologias / Ferramentas |
